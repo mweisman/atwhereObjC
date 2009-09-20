@@ -1,0 +1,223 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* AmIAtWherecampPDXAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 347}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AmIAtWherecampPDXAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 273}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{107, 302}";
+		};
+	};
+	2709B1C3106331040061345B /* AmIAtWherecampPDX */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AmIAtWherecampPDX;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	2709B1D41063311A0061345B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2709B1D51063311A0061345B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2709B207106336CA0061345B /* WellAmI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {581, 286}}";
+			sepNavSelRange = "{366, 0}";
+			sepNavVisRange = "{39, 405}";
+		};
+	};
+	2709B208106336CA0061345B /* WellAmI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {581, 793}}";
+			sepNavSelRange = "{1328, 0}";
+			sepNavVisRange = "{1106, 707}";
+		};
+	};
+	2709B2131063379F0061345B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AmIAtWherecampPDXAppDelegate.h */;
+		name = "AmIAtWherecampPDXAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+	2709B2151063379F0061345B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AmIAtWherecampPDXAppDelegate.m */;
+		name = "AmIAtWherecampPDXAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	2709B21E1063382A0061345B /* findMe.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = findMe.m;
+		path = /Users/mike/Development/WhereAmI/findMe.m;
+		sourceTree = "<absolute>";
+	};
+	2760908B10633E28001607DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2709B21E1063382A0061345B /* findMe.m */;
+		name = "findMe.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 369;
+	};
+	2766364A1066ACEE005C87C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2709B207106336CA0061345B /* WellAmI.h */;
+		name = "WellAmI.h: 15";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 39;
+	};
+	2766364F1066AD86005C87C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2709B208106336CA0061345B /* WellAmI.m */;
+		name = "WellAmI.m: 45";
+		rLen = 0;
+		rLoc = 1310;
+		rType = 0;
+		vrLen = 858;
+		vrLoc = 941;
+	};
+	27C6573C1066B269001C8C1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2709B208106336CA0061345B /* WellAmI.m */;
+		name = "WellAmI.m: 46";
+		rLen = 0;
+		rLoc = 1328;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 1106;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2709B1C3106331040061345B /* AmIAtWherecampPDX */;
+		activeTarget = 8D1107260486CEB800E47090 /* AmIAtWherecampPDX */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AmIAtWherecampPDX */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 2709B1D51063311A0061345B /* Code sense */;
+		executables = (
+			2709B1C3106331040061345B /* AmIAtWherecampPDX */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					403,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 275164830;
+			PBXWorkspaceStateSaveDate = 275164830;
+		};
+		perUserProjectItems = {
+			2709B2131063379F0061345B /* PBXTextBookmark */ = 2709B2131063379F0061345B /* PBXTextBookmark */;
+			2709B2151063379F0061345B /* PBXTextBookmark */ = 2709B2151063379F0061345B /* PBXTextBookmark */;
+			2760908B10633E28001607DF /* PBXTextBookmark */ = 2760908B10633E28001607DF /* PBXTextBookmark */;
+			2766364A1066ACEE005C87C2 /* PBXTextBookmark */ = 2766364A1066ACEE005C87C2 /* PBXTextBookmark */;
+			2766364F1066AD86005C87C2 /* PBXTextBookmark */ = 2766364F1066AD86005C87C2 /* PBXTextBookmark */;
+			27C6573C1066B269001C8C1D /* PBXTextBookmark */ = 27C6573C1066B269001C8C1D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2709B1D41063311A0061345B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* AmIAtWherecampPDX */ = {
+		activeExec = 0;
+		executables = (
+			2709B1C3106331040061345B /* AmIAtWherecampPDX */,
+		);
+	};
+}
