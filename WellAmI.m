@@ -35,7 +35,7 @@
 }
 
 - (void)locationManager:(CLLocationManager *)manager didFailWithError:(NSError *)error {
-    NSLog(@"%@",error);
+    [wellAmIAtWhereCamp setStringValue:[error localizedDescription]];
 }
 
 - (void)soAmI:(CLLocation *)location {
